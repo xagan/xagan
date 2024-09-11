@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Amir Esmaeili
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+</div>
+
 ## 🚀 About Me
 I am a Machine Learning Engineer currently pursuing a Master's degree in Artificial Intelligence at the University of Tabriz. I have a strong background in computer science and experience in back-end development.
 
