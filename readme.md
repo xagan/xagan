@@ -1,7 +1,8 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Amir Esmaeili
 
 ## 🚀 About Me
-I'm a Machine Learning Engineer and Data Scientist with a background in PHP-Laravel Backend development. I love turning data into insights and building intelligent systems that make a difference.
+I am a Machine Learning Engineer currently pursuing a Master's degree in Artificial Intelligence at the University of Tabriz. I have a strong background in computer science and experience in back-end development.
+I am passionate about using my skills and experience to solve real-world problems and make a positive impact. I am a team player and I am always eager to learn new things.
 
 ## 🛠 Skills
 ### Machine Learning & Data Science
@@ -20,13 +21,12 @@ I'm a Machine Learning Engineer and Data Scientist with a background in PHP-Lara
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xagan&show_icons=true&theme=radical)
 
 ## 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xagan&layout=compact&theme=radical)
 
 ## 🔭 I'm currently working on
 - Improving natural language processing models for sentiment analysis
@@ -45,12 +45,12 @@ I'm a Machine Learning Engineer and Data Scientist with a background in PHP-Lara
 - Transitioning from web development to data science
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/xagan/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/xagan)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
 
 ## ⚡ Fun fact
 Did you know that the first computer "bug" was an actual real-life bug? A moth was found trapped in a Harvard Mark II computer in 1947!
 
 ---
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [xagan](https://github.com/xagan)
