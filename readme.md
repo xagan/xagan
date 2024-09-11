@@ -29,14 +29,15 @@ I am passionate about using my skills and experience to solve real-world problem
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xagan&layout=compact&theme=radical)
 
 ## 🔭 I'm currently working on
-- Improving natural language processing models for sentiment analysis
-- Developing a recommendation system using collaborative filtering
-- Exploring deep reinforcement learning techniques for game AI
+- Brain Tumor Detection in MRI Images
+- Development and Evaluation of an AI-Driven App
+-  Spearheaded the development of a cutting-edge multimodal AI system
 
 ## 🌱 I'm currently learning
-- Advanced techniques in Generative AI
-- MLOps best practices
-- Quantum computing and its applications in machine learning
+- Computer Vision and Medical Image Analysis
+- Optimization Algorithms and Computational Intelligence
+- Transformer Architectures and Attention Mechanisms
+- Optimization Algorithms and Computational Intelligence
 
 ## 💬 Ask me about
 - Machine Learning algorithms
@@ -45,9 +46,8 @@ I am passionate about using my skills and experience to solve real-world problem
 - Transitioning from web development to data science
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/xagan/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/xagan)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amiresmaeili/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:amir.esmaeili327@gmail.com)
 
 ## ⚡ Fun fact
 Did you know that the first computer "bug" was an actual real-life bug? A moth was found trapped in a Harvard Mark II computer in 1947!
