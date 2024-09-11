@@ -55,7 +55,7 @@ I am passionate about using my skills and experience to solve real-world problem
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:amir.esmaeili327@gmail.com)
 
 ## ⚡ Fun fact
-Did you know that the first computer "bug" was an actual real-life bug? A moth was found trapped in a Harvard Mark II computer in 1947!
+Python isn’t named after the snake.
 
 ---
 ⭐️ From [xagan](https://github.com/xagan)
