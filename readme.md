@@ -52,7 +52,7 @@ I am passionate about using my skills and experience to solve real-world problem
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amiresmaeili/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:amir.esmaeili327@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:esmaeili.amiir@gmail.com)
 
 ## ⚡ Fun fact
 Python isn’t named after the snake.
