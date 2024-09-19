@@ -54,14 +54,15 @@ I am passionate about using my skills and experience to solve real-world problem
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amiresmaeili/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:esmaeili.amiir@gmail.com)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xagan&theme=nord&row=2&column=3" alt="xagan" /></a> </p>
+
+
 ## ⚡ Fun fact
 Python isn’t named after the snake.
 
 ---
 ⭐️ From [xagan](https://github.com/xagan)
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xagan" alt="xagan" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xagan&label=Profile%20views&color=0e75b6&style=flat" alt="xagan" /> </p>
