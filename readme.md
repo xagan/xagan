@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Amir Esmaeili
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xagan&label=Profile%20views&color=0e75b6&style=flat" alt="xagan" /> </p>
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </div>
@@ -61,6 +61,3 @@ Python isn’t named after the snake.
 
 ---
 ⭐️ From [xagan](https://github.com/xagan)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xagan&label=Profile%20views&color=0e75b6&style=flat" alt="xagan" /> </p>
