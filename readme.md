@@ -59,3 +59,7 @@ Python isn’t named after the snake.
 
 ---
 ⭐️ From [xagan](https://github.com/xagan)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xagan&label=Profile%20views&color=0e75b6&style=flat" alt="xagan" /> </p>
