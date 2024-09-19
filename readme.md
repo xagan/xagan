@@ -28,10 +28,10 @@ I am passionate about using my skills and experience to solve real-world problem
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xagan&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xagan&show_icons=true&theme=tokyonight )
 
 ## 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xagan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xagan&layout=compact&theme=tokyonight )
 
 ## 🔭 I'm currently working on
 - Brain Tumor Detection in MRI Images
