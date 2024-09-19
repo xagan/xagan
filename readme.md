@@ -55,7 +55,7 @@ I am passionate about using my skills and experience to solve real-world problem
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:esmaeili.amiir@gmail.com)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xagan&theme=nord&row=2&column=3" alt="xagan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xagan&theme=nord&row=2&column=3" alt="xagan" /></a> </p>
 
 
 ## ⚡ Fun fact
